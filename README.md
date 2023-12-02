@@ -1,4 +1,4 @@
-# aly6000-Baseball
+# NU/aly6000-Baseball
 MVP Recommendation: Batting statistics from the 1986 Major League Baseball season
 
 I have never ever watched a full baseball match then I almost have no clue about this sport. However, the data set of Batting statistics from the 1986 Major League Baseball season has helped open my eyes and brought me some aspects of appealing information about MLB. I am given insights based on the data statistics and analysis only. Therefore, my MVP recommendation might remain a limited notion.
